@@ -5,7 +5,7 @@ Data Sources
 >
 >データの編集のプロセス公開することで情報の検証ができることを担保します。
 | Left align | Right align | Center align |
-|:----------:|:-----------:|:------------:|
+|:-----------|------------:|:------------:|
 | This       |        This |     This     |
 | column     |      column |    column    |
 | will       |        will |     will     |
