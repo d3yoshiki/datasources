@@ -1,7 +1,7 @@
 #Data Sources
 
 データ元のファイルを保管する場所。
-#ライセンス及び免責事項
+###ライセンス及び免責事項
 [クリエイティブ・コモンズ4.0](http://creativecommons.org/licenses/by/4.0/deed.ja)
 [クリエイティブ・コモンズ](http://creativecommons.jp/licenses/)
 
