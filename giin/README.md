@@ -1,18 +1,27 @@
 #国会議員性別・世代別分布　引用データ
+
 ※データ取得日はいずれも2016年3月3日（民進党結成前のデータ）
+年齢は全て3月3日時点の年齢で集計しています。
 
 |   ファイル名      |    詳細      |      引用元（備考）   |
 | :---------------- |:--------------:| :---------------:|
 |    `ishinm.csv`      |維新の党 |   [維新の党](https://ishinnotoh.jp/)     |    
 |    `jimin00.csv`      |自民党|  [自民党](https://www.jimin.jp/member/)      |    
-|    `kaikaku.csv`      |改革結集の | ()    |    
+|    `kaikaku.csv`      |改革結集の会 | (民進党移行前の改革結集の会公式ホームページより集計)    |    
 |    `kaikaku1.csv`      |新党改革 | [新党改革](http://shintokaikaku.jp/)      |    
 |    `kokoro.csv`      |日本のここ|  [日本のこころ](https://nippon-kokoro.jp/)      |    
 |    `koumei.csv`      |共産党|  [共産党](http://www.jcp.or.jp/)      |    
 |    `minshu.csv`      |民主党|  [民主党](https://www.dpj.or.jp/)      |    
-|    `osaka.csv`      |おおさか維新の|  [おおさか維新の会](https://o-ishin.jp/)      |    
-|    `other.csv`      | その他| （）      |    
-|    `populationGen.csv`    |  日本の総人口（比率）|[総務省統計局　人口推計](http://www.stat.go.jp/data/jinsui/pdf/201602.pdf) |  
+|    `osaka.csv`      |おおさか維新の会|  [おおさか維新の会](https://o-ishin.jp/)      |    
+|    `other.csv`      | その他| [参議院](http://www.sangiin.go.jp/japanese/joho1/kousei/giin/190/giinsu.htm) [衆議院](http://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/kaiha_m.htm)   （会派別所属議員数一覧より集計）|    
+|    `populationGen.csv`    |  日本の総人口（比率）|[総務省統計局・人口推計](http://www.stat.go.jp/data/jinsui/pdf/201602.pdf)（総人口（外国人含む）年齢（５歳階級）男女別人口 より集計）(各世代人口に[×710/126876]で計算した値)
+|  
 |    `seikatsu.csv`      | 生活の党| [生活の党](http://www.seikatsu1.jp/)      |    
 |    `shamin.csv`      |社民党|  [社民党](http://www5.sdp.or.jp/)      |    
 |    `sum.csv`      |国会議員性別・世代別合計|  ー  |    
+
+####ライセンス及び免責事項
+
+　[クリエイティブ・コモンズ4.0](http://creativecommons.org/licenses/by/4.0/deed.ja)（表示 4.0 国際 (CC BY 4.0)の下に公開しています。）
+
+　また、データの取り扱いについては自己責任でお願いします。
