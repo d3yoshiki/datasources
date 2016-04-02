@@ -22,6 +22,8 @@
 |    `sum.csv`      |国会議員性別・世代別合計|  （各データの合計値）  |    
 |    `touhyou.csv`      | 明るい選挙推進協会・年齢別投票率|[第46回衆議院議員総選挙における年齢別投票率](http://www.akaruisenkyo.or.jp/070various/071syugi/696/)  |    
 
+csvファイル内の”shuMale”,”shuFemale”,”sanMale”,”sanFemale” はそれぞれ衆議院に所属する男性の数、衆議院の女性、参議院の男性、参議院の女性の数を表しています。
+
 ####ライセンス及び免責事項
 
 　[クリエイティブ・コモンズ4.0](http://creativecommons.org/licenses/by/4.0/deed.ja)（表示 4.0 国際 (CC BY 4.0)の下に公開しています。）
