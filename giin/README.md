@@ -1,18 +1,18 @@
 #
 
-|   ファイル名      |            |          |
+|   ファイル名      |    詳細      |          |
 | :---------------- |:--------------:| :---------------:|
-|    `ishinm.csv`      |        |    |
-|    `jimin00.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `kaikaku.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `kaikaku1.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `kokoro.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `koumei.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `kyosan.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `minshu.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `osaka.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `other.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `populationGen.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `seikatsu.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `shamin.csv`      | [サイト名hoge](アドレスhoge)      |    |
-|    `sum.csv`      | [サイト名hoge](アドレスhoge)      |    |
+|    `ishinm.csv`      |   [維新の党](https://www.jimin.jp/member/)      |    |
+|    `jimin00.csv`      | [自民党](https://www.jimin.jp/member/)      |    |
+|    `kaikaku.csv`      | [改革結集の会]()      |    |
+|    `kaikaku1.csv`      | [新党改革](http://shintokaikaku.jp/)      |    |
+|    `kokoro.csv`      | [日本のこころ](https://nippon-kokoro.jp/)      |    |
+|    `koumei.csv`      | [公明党](https://www.komei.or.jp/)      |    |
+|    `kyosan.csv`      | [共産党](http://www.jcp.or.jp/)      |    |
+|    `minshu.csv`      | [民主党](https://www.dpj.or.jp/)      |    |
+|    `osaka.csv`      | [おおさか維新の会](https://o-ishin.jp/)      |    |
+|    `other.csv`      | [その他]()      |    |
+|    `populationGen.csv`      | [日本の総人口](アドレスhoge)      |    |
+|    `seikatsu.csv`      | [生活の党](http://www.seikatsu1.jp/)      |    |
+|    `shamin.csv`      | [社民党](http://www5.sdp.or.jp/)      |    |
+|    `sum.csv`      | 国会議員性別・世代別合計  |    |
