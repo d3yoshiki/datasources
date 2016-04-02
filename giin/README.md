@@ -14,8 +14,7 @@
 |    `minshu.csv`      |民主党|  [民主党](https://www.dpj.or.jp/)      |    
 |    `osaka.csv`      |おおさか維新の会|  [おおさか維新の会](https://o-ishin.jp/)      |    
 |    `other.csv`      | その他| [参議院](http://www.sangiin.go.jp/japanese/joho1/kousei/giin/190/giinsu.htm) [衆議院](http://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/kaiha_m.htm)   （会派別所属議員数一覧より集計）|    
-|    `populationGen.csv`    |  日本の総人口（比率）|[総務省統計局・人口推計](http://www.stat.go.jp/data/jinsui/pdf/201602.pdf)（総人口（外国人含む）年齢（５歳階級）男女別人口 より集計）(各世代人口に[×710/126876]で計算した値)
-|  
+|    `populationGen.csv`    |  日本の総人口（比率）|[総務省統計局・人口推計](http://www.stat.go.jp/data/jinsui/pdf/201602.pdf)（総人口（外国人含む）年齢（５歳階級）男女別人口 より集計）(各世代人口に[×710/126876]で計算した値)|  
 |    `seikatsu.csv`      | 生活の党| [生活の党](http://www.seikatsu1.jp/)      |    
 |    `shamin.csv`      |社民党|  [社民党](http://www5.sdp.or.jp/)      |    
 |    `sum.csv`      |国会議員性別・世代別合計|  ー  |    
